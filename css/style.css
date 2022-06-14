@@ -50,6 +50,19 @@ footer i{
 .boton{
     background-color: red;
 }
+.boton :hover{
+    background-color: black;
+}
+
+.parrafochico{
+   background-image: linear-gradient(90deg, rgba(0,0,0,1) 33%, rgba(0,212,255,1) 100%);
+   color: white;
+}
+
+
+nav ul  :hover{
+    background-color: darkorange;
+}
 
 
 @media(max-width:768px){
